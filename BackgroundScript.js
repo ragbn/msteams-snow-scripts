@@ -23,7 +23,7 @@
 
         var value = node.getTextContent(node)
         if(value == 'com.glide.cs.chatbot.lite')
-         gs.info('Virtual Agent lite is Available')
+         gs.info('Virtual Agent lite is Available - Now Bot on Teams can be enabled')
         if(value == 'com.glide.cs.chatbot')
          gs.info('Virtual Agent is Available')
         if(value == 'com.snc.itsm.virtualagent.lite')
