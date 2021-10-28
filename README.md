@@ -10,3 +10,4 @@ Script will also log your ServiceNow Version (ex: Qubec, Paris, Rome etc)
 No. We are working on improving the script, but this feature is not available at the moment. 
 
 ### How to run this script?
+![Demo](https://github.com/ragbn/msteams-snow-scripts/blob/main/Demo/demo.gif)
