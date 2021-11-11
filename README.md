@@ -1,4 +1,4 @@
-## Check ServiceNow Instance Rediness to Deploy Microsoft Teams Integration 
+## Check ServiceNow Instance Readiness to Deploy Microsoft Teams Integration 
 
 ### How can this script help me?
 Script will help you check if the Microsoft Teams prerequisite plugins are installed in your Service Now instance.
